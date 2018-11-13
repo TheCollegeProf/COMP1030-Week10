@@ -60,7 +60,7 @@ namespace InClassWeek10
             // add the two input parameters together
             Int32 sum = x + y;
 
-            // return the sum to the main method
+            // return the sum to the main method testing the team explorer
             return sum;
         }
     }
