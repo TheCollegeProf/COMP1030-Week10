@@ -1,0 +1,10 @@
+C:\Users\Rotti\Dropbox\Repos\F18 COMP1030 Repo\InClassWeek10\InClassWeek10\bin\Debug\InClassWeek10.exe.config
+C:\Users\Rotti\Dropbox\Repos\F18 COMP1030 Repo\InClassWeek10\InClassWeek10\bin\Debug\InClassWeek10.exe
+C:\Users\Rotti\Dropbox\Repos\F18 COMP1030 Repo\InClassWeek10\InClassWeek10\bin\Debug\InClassWeek10.pdb
+C:\Users\Rotti\Dropbox\Repos\F18 COMP1030 Repo\InClassWeek10\InClassWeek10\obj\Debug\InClassWeek10.csprojAssemblyReference.cache
+C:\Users\Rotti\Dropbox\Repos\F18 COMP1030 Repo\InClassWeek10\InClassWeek10\obj\Debug\InClassWeek10.Form1.resources
+C:\Users\Rotti\Dropbox\Repos\F18 COMP1030 Repo\InClassWeek10\InClassWeek10\obj\Debug\InClassWeek10.Properties.Resources.resources
+C:\Users\Rotti\Dropbox\Repos\F18 COMP1030 Repo\InClassWeek10\InClassWeek10\obj\Debug\InClassWeek10.csproj.GenerateResource.cache
+C:\Users\Rotti\Dropbox\Repos\F18 COMP1030 Repo\InClassWeek10\InClassWeek10\obj\Debug\InClassWeek10.csproj.CoreCompileInputs.cache
+C:\Users\Rotti\Dropbox\Repos\F18 COMP1030 Repo\InClassWeek10\InClassWeek10\obj\Debug\InClassWeek10.exe
+C:\Users\Rotti\Dropbox\Repos\F18 COMP1030 Repo\InClassWeek10\InClassWeek10\obj\Debug\InClassWeek10.pdb
